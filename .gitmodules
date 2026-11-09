@@ -6,7 +6,7 @@
 	url = git@github.com:PlasmoHQ/edge-addons-api.git
 [submodule "packages/chrome-webstore-api"]
 	path = packages/chrome-webstore-api
-	url = git@github.com:PlasmoHQ/chrome-webstore-api.git
+	url = git@github.com:amahteru/chrome-webstore-api.git
 [submodule "packages/mozilla-addons-api"]
 	path = packages/mozilla-addons-api
 	url = git@github.com:PlasmoHQ/mozilla-addons-api.git

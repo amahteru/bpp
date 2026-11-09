@@ -1,14 +1,14 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`get verbose flag successfully 1`] = `
-"🟣 Plasmo Browser Platform Publish v2
+"🟣 Plasmo Browser Platform Publish v3
 ::debug::{"artifact":"artifacts.zip","versionFile":"","verbose":true}
 ::debug::chrome
 "
 `;
 
 exports[`happy path 1`] = `
-"🟣 Plasmo Browser Platform Publish v2
+"🟣 Plasmo Browser Platform Publish v3
 ::debug::{"artifact":"artifacts.zip","versionFile":"","verbose":false}
 ::debug::chrome,firefox,edge
 "

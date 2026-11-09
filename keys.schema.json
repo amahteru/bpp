@@ -64,6 +64,10 @@
           "type": "string",
           "description": "Get it from https://chrome.google.com/webstore/detail/EXT_ID"
         },
+        "publisherId": {
+          "type": "string",
+          "description": "Chrome Web Store API v2 publisher ID. Find it in the Developer Dashboard account settings."
+        },
         "refreshToken": {
           "type": "string",
           "description": "See: https://github.com/PlasmoHQ/chrome-webstore-api/blob/main/token.md"
@@ -88,7 +92,7 @@
           "default": false
         }
       },
-      "required": ["extId", "refreshToken", "clientId", "clientSecret"]
+      "required": ["extId", "publisherId", "refreshToken", "clientId", "clientSecret"]
     },
     "Firefox": {
       "type": "object",

@@ -76,7 +76,8 @@ The final json might look like this:
     "clientId": "1280623",
     "clientSecret": "1!9us4",
     "refreshToken": "7&as$a89",
-    "extId": "akszypg"
+    "extId": "akszypg",
+    "publisherId": "0c9a7b3e"
   },
   "firefox": {
     "file": "firefox_addon.xpi",

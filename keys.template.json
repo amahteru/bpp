@@ -5,6 +5,7 @@
     "clientSecret": "123",
     "refreshToken": "789",
     "extId": "abcd",
+    "publisherId": "efgh",
     "uploadOnly": true
   },
   "firefox": {
